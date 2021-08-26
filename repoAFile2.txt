@@ -1,0 +1,3 @@
+This is File2 of repoA 
+Adding line1 to File1
+Adding line2 to File2
