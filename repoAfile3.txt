@@ -1,0 +1,2 @@
+This is file3 of repoA
+Adding text to file3 of repoA
